@@ -1,0 +1,281 @@
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.deps.json
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.runtimeconfig.json
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.runtimeconfig.dev.json
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.pdb
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/d/Desktop/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/d/Desktop/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.csprojAssemblyReference.cache
+/Users/d/Desktop/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/d/Desktop/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.AssemblyInfoInputs.cache
+/Users/d/Desktop/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.AssemblyInfo.cs
+/Users/d/Desktop/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.RazorTargetAssemblyInfo.cache
+/Users/d/Desktop/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.csproj.CopyComplete
+/Users/d/Desktop/LunaAPI/obj/Debug/netcoreapp3.1/staticwebassets/LunaAPI.StaticWebAssets.Manifest.cache
+/Users/d/Desktop/LunaAPI/obj/Debug/netcoreapp3.1/staticwebassets/LunaAPI.StaticWebAssets.xml
+/Users/d/Desktop/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.dll
+/Users/d/Desktop/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.pdb
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.deps.json
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.runtimeconfig.json
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.runtimeconfig.dev.json
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.pdb
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.csprojAssemblyReference.cache
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.AssemblyInfoInputs.cache
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.AssemblyInfo.cs
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.RazorTargetAssemblyInfo.cache
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.csproj.CopyComplete
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/obj/Debug/netcoreapp3.1/staticwebassets/LunaAPI.StaticWebAssets.Manifest.cache
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/obj/Debug/netcoreapp3.1/staticwebassets/LunaAPI.StaticWebAssets.xml
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.dll
+/Users/d/Documents/GitHub/Luna-Sushi/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.pdb
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.exe
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.deps.json
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.runtimeconfig.json
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.runtimeconfig.dev.json
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.pdb
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.csprojAssemblyReference.cache
+C:/Users/Hans/Desktop/luna/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Hans/Desktop/luna/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.AssemblyInfoInputs.cache
+C:/Users/Hans/Desktop/luna/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.AssemblyInfo.cs
+C:/Users/Hans/Desktop/luna/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.RazorTargetAssemblyInfo.cache
+C:/Users/Hans/Desktop/luna/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.csproj.CopyComplete
+C:/Users/Hans/Desktop/luna/LunaAPI/obj/Debug/netcoreapp3.1/staticwebassets/LunaAPI.StaticWebAssets.Manifest.cache
+C:/Users/Hans/Desktop/luna/LunaAPI/obj/Debug/netcoreapp3.1/staticwebassets/LunaAPI.StaticWebAssets.xml
+C:/Users/Hans/Desktop/luna/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.dll
+C:/Users/Hans/Desktop/luna/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.pdb
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.deps.json
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.runtimeconfig.json
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.runtimeconfig.dev.json
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.pdb
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.csprojAssemblyReference.cache
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.AssemblyInfoInputs.cache
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.AssemblyInfo.cs
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.RazorTargetAssemblyInfo.cache
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.csproj.CopyComplete
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/obj/Debug/netcoreapp3.1/staticwebassets/LunaAPI.StaticWebAssets.Manifest.cache
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/obj/Debug/netcoreapp3.1/staticwebassets/LunaAPI.StaticWebAssets.xml
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.dll
+/Users/enabatlak/Desktop/Archive 2/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.pdb
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.deps.json
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.runtimeconfig.json
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.runtimeconfig.dev.json
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/LunaAPI.pdb
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.csprojAssemblyReference.cache
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.AssemblyInfoInputs.cache
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.AssemblyInfo.cs
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.RazorTargetAssemblyInfo.cache
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.csproj.CopyComplete
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/obj/Debug/netcoreapp3.1/staticwebassets/LunaAPI.StaticWebAssets.Manifest.cache
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/obj/Debug/netcoreapp3.1/staticwebassets/LunaAPI.StaticWebAssets.xml
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.dll
+/Users/enabatlak/Desktop/Ryddet kode/LunaAPI/obj/Debug/netcoreapp3.1/LunaAPI.pdb
